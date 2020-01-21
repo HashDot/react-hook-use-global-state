@@ -10,7 +10,7 @@ npm i react-hook-use-global-state
 
 ## Usage
 
-Add the Provider to your Layout or HOC and define your Initial State and
+Add the provider to your layout or HoC and define your initial state and
 your reducer.
 
 **Demo:**
@@ -52,6 +52,8 @@ export default function Layout({ children }) {
   )
 }
 ```
+
+Use the global state in your component.
 
 **SomeComponent.js**
 
