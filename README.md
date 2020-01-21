@@ -2,6 +2,8 @@
 
 [![NPM](https://badgen.net/npm/v/react-hook-use-global-state)](https://www.npmjs.com/package/react-hook-use-global-state)
 
+Simple Global State Hook for React
+
 ## Install
 
 ```
