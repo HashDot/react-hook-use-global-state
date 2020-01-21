@@ -1,4 +1,6 @@
-# useGlobalState
+# React Hook - useGlobalState
+
+[![NPM](https://badgen.net/npm/v/react-hook-use-global-state)](https://www.npmjs.com/package/react-hook-use-global-state)
 
 ## Install
 
@@ -12,6 +14,7 @@ Add the Provider to your Layout or HOC and define your Initial State and
 your reducer.
 
 **Demo:**
+
 [![Edit Demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-hook-use-global-state-k159k)
 
 **Layout.js**
