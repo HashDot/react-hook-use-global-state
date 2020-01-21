@@ -21,7 +21,6 @@ StateProvider.propTypes = {
   initialState: PropTypes.shape({}).isRequired,
 
   /**
-   *
    * @param {object} state
    * @param {object} action
    */
