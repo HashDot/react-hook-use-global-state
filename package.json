@@ -1,0 +1,25 @@
+{
+  "name": "react-hook-use-global-state",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HashDot/useGlobalState.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "state",
+    "state management",
+  ],
+  "author": "Lars Hampe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HashDot/useGlobalState/issues"
+  },
+  "homepage": "https://github.com/HashDot/useGlobalState#readme"
+}
